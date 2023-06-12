@@ -1,0 +1,9 @@
+* arc-compat
+
+Arc compatible package
+
+|---------+-----------------------------------------------|
+| source  | git:https://github.com/g000001/arc-compat.git |
+| commit  | 870b300                                       |
+| systems | arc-compat                                    |
+|---------+-----------------------------------------------|
