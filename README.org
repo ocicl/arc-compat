@@ -4,6 +4,6 @@ Arc compatible package
 
 |---------+-----------------------------------------------|
 | source  | git:https://github.com/g000001/arc-compat.git |
-| commit  | b96c15c                                       |
+| commit  | 0e7f581                                       |
 | systems | arc-compat                                    |
 |---------+-----------------------------------------------|
